@@ -1,0 +1,1644 @@
+#
+# Created for Leeds COMP 5821M Autumn 2020
+#
+#
+# Surface vertices=162 faces=288
+#
+Vertex 0 0.0000 2.0000 2.2578
+Vertex 1 0.2578 2.0000 2.0000
+Vertex 2 0.0000 2.2578 2.0000
+Vertex 3 -0.2578 2.0000 2.0000
+Vertex 4 0.0000 1.7422 2.0000
+Vertex 5 0.0000 2.0000 1.7422
+Vertex 6 0.0000 2.0000 0.2578
+Vertex 7 0.2578 2.0000 0.0000
+Vertex 8 0.0000 2.2578 0.0000
+Vertex 9 -0.2578 2.0000 0.0000
+Vertex 10 0.0000 1.7422 0.0000
+Vertex 11 0.0000 2.0000 -0.2578
+Vertex 12 0.0000 2.0000 -1.7422
+Vertex 13 0.2578 2.0000 -2.0000
+Vertex 14 0.0000 2.2578 -2.0000
+Vertex 15 -0.2578 2.0000 -2.0000
+Vertex 16 0.0000 1.7422 -2.0000
+Vertex 17 0.0000 2.0000 -2.2578
+Vertex 18 0.0000 0.0000 2.2578
+Vertex 19 0.2578 0.0000 2.0000
+Vertex 20 0.0000 0.2578 2.0000
+Vertex 21 -0.2578 0.0000 2.0000
+Vertex 22 0.0000 -0.2578 2.0000
+Vertex 23 0.0000 0.0000 1.7422
+Vertex 24 0.0000 0.0000 0.2578
+Vertex 25 0.2578 0.0000 0.0000
+Vertex 26 0.0000 0.2578 0.0000
+Vertex 27 -0.2578 0.0000 0.0000
+Vertex 28 0.0000 -0.2578 0.0000
+Vertex 29 0.0000 0.0000 -0.2578
+Vertex 30 0.0000 0.0000 -1.7422
+Vertex 31 0.2578 0.0000 -2.0000
+Vertex 32 0.0000 0.2578 -2.0000
+Vertex 33 -0.2578 0.0000 -2.0000
+Vertex 34 0.0000 -0.2578 -2.0000
+Vertex 35 0.0000 0.0000 -2.2578
+Vertex 36 0.0000 -2.0000 2.2578
+Vertex 37 0.2578 -2.0000 2.0000
+Vertex 38 0.0000 -1.7422 2.0000
+Vertex 39 -0.2578 -2.0000 2.0000
+Vertex 40 0.0000 -2.2578 2.0000
+Vertex 41 0.0000 -2.0000 1.7422
+Vertex 42 0.0000 -2.0000 0.2578
+Vertex 43 0.2578 -2.0000 0.0000
+Vertex 44 0.0000 -1.7422 0.0000
+Vertex 45 -0.2578 -2.0000 0.0000
+Vertex 46 0.0000 -2.2578 0.0000
+Vertex 47 0.0000 -2.0000 -0.2578
+Vertex 48 0.0000 -2.0000 -1.7422
+Vertex 49 0.2578 -2.0000 -2.0000
+Vertex 50 0.0000 -1.7422 -2.0000
+Vertex 51 -0.2578 -2.0000 -2.0000
+Vertex 52 0.0000 -2.2578 -2.0000
+Vertex 53 0.0000 -2.0000 -2.2578
+Vertex 54 0.0000 2.1875 2.1875
+Vertex 55 0.1875 2.0000 2.1875
+Vertex 56 0.1875 2.1875 2.0000
+Vertex 57 -0.1875 2.0000 2.1875
+Vertex 58 -0.1875 2.1875 2.0000
+Vertex 59 0.0000 1.8125 2.1875
+Vertex 60 0.1875 1.8125 2.0000
+Vertex 61 0.0000 2.1875 1.8125
+Vertex 62 0.1875 2.0000 1.8125
+Vertex 63 -0.1875 1.8125 2.0000
+Vertex 64 -0.1875 2.0000 1.8125
+Vertex 65 0.0000 1.8125 1.8125
+Vertex 66 0.0000 2.1875 0.1875
+Vertex 67 0.1875 2.0000 0.1875
+Vertex 68 0.1875 2.1875 0.0000
+Vertex 69 -0.1875 2.0000 0.1875
+Vertex 70 -0.1875 2.1875 0.0000
+Vertex 71 0.0000 1.8125 0.1875
+Vertex 72 0.1875 1.8125 0.0000
+Vertex 73 0.0000 2.1875 -0.1875
+Vertex 74 0.1875 2.0000 -0.1875
+Vertex 75 -0.1875 1.8125 0.0000
+Vertex 76 -0.1875 2.0000 -0.1875
+Vertex 77 0.0000 1.8125 -0.1875
+Vertex 78 0.0000 2.1875 -1.8125
+Vertex 79 0.1875 2.0000 -1.8125
+Vertex 80 0.1875 2.1875 -2.0000
+Vertex 81 -0.1875 2.0000 -1.8125
+Vertex 82 -0.1875 2.1875 -2.0000
+Vertex 83 0.0000 1.8125 -1.8125
+Vertex 84 0.1875 1.8125 -2.0000
+Vertex 85 0.0000 2.1875 -2.1875
+Vertex 86 0.1875 2.0000 -2.1875
+Vertex 87 -0.1875 1.8125 -2.0000
+Vertex 88 -0.1875 2.0000 -2.1875
+Vertex 89 0.0000 1.8125 -2.1875
+Vertex 90 0.0000 0.1875 2.1875
+Vertex 91 0.1875 0.0000 2.1875
+Vertex 92 0.1875 0.1875 2.0000
+Vertex 93 -0.1875 0.0000 2.1875
+Vertex 94 -0.1875 0.1875 2.0000
+Vertex 95 0.0000 -0.1875 2.1875
+Vertex 96 0.1875 -0.1875 2.0000
+Vertex 97 0.0000 0.1875 1.8125
+Vertex 98 0.1875 0.0000 1.8125
+Vertex 99 -0.1875 -0.1875 2.0000
+Vertex 100 -0.1875 0.0000 1.8125
+Vertex 101 0.0000 -0.1875 1.8125
+Vertex 102 0.0000 0.1875 0.1875
+Vertex 103 0.1875 0.0000 0.1875
+Vertex 104 0.1875 0.1875 0.0000
+Vertex 105 -0.1875 0.0000 0.1875
+Vertex 106 -0.1875 0.1875 0.0000
+Vertex 107 0.0000 -0.1875 0.1875
+Vertex 108 0.1875 -0.1875 0.0000
+Vertex 109 0.0000 0.1875 -0.1875
+Vertex 110 0.1875 0.0000 -0.1875
+Vertex 111 -0.1875 -0.1875 0.0000
+Vertex 112 -0.1875 0.0000 -0.1875
+Vertex 113 0.0000 -0.1875 -0.1875
+Vertex 114 0.0000 0.1875 -1.8125
+Vertex 115 0.1875 0.0000 -1.8125
+Vertex 116 0.1875 0.1875 -2.0000
+Vertex 117 -0.1875 0.0000 -1.8125
+Vertex 118 -0.1875 0.1875 -2.0000
+Vertex 119 0.0000 -0.1875 -1.8125
+Vertex 120 0.1875 -0.1875 -2.0000
+Vertex 121 0.0000 0.1875 -2.1875
+Vertex 122 0.1875 0.0000 -2.1875
+Vertex 123 -0.1875 -0.1875 -2.0000
+Vertex 124 -0.1875 0.0000 -2.1875
+Vertex 125 0.0000 -0.1875 -2.1875
+Vertex 126 0.0000 -1.8125 2.1875
+Vertex 127 0.1875 -2.0000 2.1875
+Vertex 128 0.1875 -1.8125 2.0000
+Vertex 129 -0.1875 -2.0000 2.1875
+Vertex 130 -0.1875 -1.8125 2.0000
+Vertex 131 0.0000 -2.1875 2.1875
+Vertex 132 0.1875 -2.1875 2.0000
+Vertex 133 0.0000 -1.8125 1.8125
+Vertex 134 0.1875 -2.0000 1.8125
+Vertex 135 -0.1875 -2.1875 2.0000
+Vertex 136 -0.1875 -2.0000 1.8125
+Vertex 137 0.0000 -2.1875 1.8125
+Vertex 138 0.0000 -1.8125 0.1875
+Vertex 139 0.1875 -2.0000 0.1875
+Vertex 140 0.1875 -1.8125 0.0000
+Vertex 141 -0.1875 -2.0000 0.1875
+Vertex 142 -0.1875 -1.8125 0.0000
+Vertex 143 0.0000 -2.1875 0.1875
+Vertex 144 0.1875 -2.1875 0.0000
+Vertex 145 0.0000 -1.8125 -0.1875
+Vertex 146 0.1875 -2.0000 -0.1875
+Vertex 147 -0.1875 -2.1875 0.0000
+Vertex 148 -0.1875 -2.0000 -0.1875
+Vertex 149 0.0000 -2.1875 -0.1875
+Vertex 150 0.0000 -1.8125 -1.8125
+Vertex 151 0.1875 -2.0000 -1.8125
+Vertex 152 0.1875 -1.8125 -2.0000
+Vertex 153 -0.1875 -2.0000 -1.8125
+Vertex 154 -0.1875 -1.8125 -2.0000
+Vertex 155 0.0000 -2.1875 -1.8125
+Vertex 156 0.1875 -2.1875 -2.0000
+Vertex 157 0.0000 -1.8125 -2.1875
+Vertex 158 0.1875 -2.0000 -2.1875
+Vertex 159 -0.1875 -2.1875 -2.0000
+Vertex 160 -0.1875 -2.0000 -2.1875
+Vertex 161 0.0000 -2.1875 -2.1875
+Normal 0 0.0000 0.0000 -1.0000
+Normal 1 -1.0000 0.0000 0.0000
+Normal 2 0.0000 -1.0000 0.0000
+Normal 3 1.0000 0.0000 0.0000
+Normal 4 0.0000 1.0000 0.0000
+Normal 5 0.0000 0.0000 1.0000
+Normal 6 0.0000 0.0000 -1.0000
+Normal 7 -1.0000 0.0000 0.0000
+Normal 8 0.0000 -1.0000 0.0000
+Normal 9 1.0000 0.0000 0.0000
+Normal 10 0.0000 1.0000 0.0000
+Normal 11 0.0000 0.0000 1.0000
+Normal 12 0.0000 0.0000 -1.0000
+Normal 13 -1.0000 0.0000 0.0000
+Normal 14 0.0000 -1.0000 0.0000
+Normal 15 1.0000 0.0000 0.0000
+Normal 16 0.0000 1.0000 0.0000
+Normal 17 0.0000 0.0000 1.0000
+Normal 18 0.0000 0.0000 -1.0000
+Normal 19 -1.0000 0.0000 0.0000
+Normal 20 0.0000 -1.0000 0.0000
+Normal 21 1.0000 0.0000 0.0000
+Normal 22 0.0000 1.0000 0.0000
+Normal 23 0.0000 0.0000 1.0000
+Normal 24 0.0000 0.0000 -1.0000
+Normal 25 -1.0000 0.0000 0.0000
+Normal 26 0.0000 -1.0000 0.0000
+Normal 27 1.0000 0.0000 0.0000
+Normal 28 0.0000 1.0000 0.0000
+Normal 29 0.0000 0.0000 1.0000
+Normal 30 0.0000 0.0000 -1.0000
+Normal 31 -1.0000 0.0000 0.0000
+Normal 32 0.0000 -1.0000 0.0000
+Normal 33 1.0000 0.0000 0.0000
+Normal 34 0.0000 1.0000 0.0000
+Normal 35 0.0000 0.0000 1.0000
+Normal 36 0.0000 0.0000 -1.0000
+Normal 37 -1.0000 0.0000 0.0000
+Normal 38 0.0000 -1.0000 0.0000
+Normal 39 1.0000 0.0000 0.0000
+Normal 40 0.0000 1.0000 0.0000
+Normal 41 0.0000 0.0000 1.0000
+Normal 42 0.0000 0.0000 -1.0000
+Normal 43 -1.0000 0.0000 0.0000
+Normal 44 0.0000 -1.0000 0.0000
+Normal 45 1.0000 0.0000 0.0000
+Normal 46 0.0000 1.0000 0.0000
+Normal 47 0.0000 0.0000 1.0000
+Normal 48 0.0000 0.0000 -1.0000
+Normal 49 -1.0000 0.0000 0.0000
+Normal 50 0.0000 -1.0000 0.0000
+Normal 51 1.0000 0.0000 0.0000
+Normal 52 0.0000 1.0000 0.0000
+Normal 53 0.0000 0.0000 1.0000
+Normal 54 -0.2108 -0.6912 -0.6912
+Normal 55 -0.6912 -0.2108 -0.6912
+Normal 56 -0.6912 -0.6912 -0.2108
+Normal 57 0.6912 -0.2108 -0.6912
+Normal 58 0.6912 -0.6912 -0.2108
+Normal 59 -0.2108 0.6912 -0.6912
+Normal 60 -0.6912 0.6912 -0.2108
+Normal 61 -0.2108 -0.6912 0.6912
+Normal 62 -0.6912 -0.2108 0.6912
+Normal 63 0.6912 0.6912 -0.2108
+Normal 64 0.6912 -0.2108 0.6912
+Normal 65 -0.2108 0.6912 0.6912
+Normal 66 -0.2108 -0.6912 -0.6912
+Normal 67 -0.6912 -0.2108 -0.6912
+Normal 68 -0.6912 -0.6912 -0.2108
+Normal 69 0.6912 -0.2108 -0.6912
+Normal 70 0.6912 -0.6912 -0.2108
+Normal 71 -0.2108 0.6912 -0.6912
+Normal 72 -0.6912 0.6912 -0.2108
+Normal 73 -0.2108 -0.6912 0.6912
+Normal 74 -0.6912 -0.2108 0.6912
+Normal 75 0.6912 0.6912 -0.2108
+Normal 76 0.6912 -0.2108 0.6912
+Normal 77 -0.2108 0.6912 0.6912
+Normal 78 -0.2108 -0.6912 -0.6912
+Normal 79 -0.6912 -0.2108 -0.6912
+Normal 80 -0.6912 -0.6912 -0.2108
+Normal 81 0.6912 -0.2108 -0.6912
+Normal 82 0.6912 -0.6912 -0.2108
+Normal 83 -0.2108 0.6912 -0.6912
+Normal 84 -0.6912 0.6912 -0.2108
+Normal 85 -0.2108 -0.6912 0.6912
+Normal 86 -0.6912 -0.2108 0.6912
+Normal 87 0.6912 0.6912 -0.2108
+Normal 88 0.6912 -0.2108 0.6912
+Normal 89 -0.2108 0.6912 0.6912
+Normal 90 -0.2108 -0.6912 -0.6912
+Normal 91 -0.6912 -0.2108 -0.6912
+Normal 92 -0.6912 -0.6912 -0.2108
+Normal 93 0.6912 -0.2108 -0.6912
+Normal 94 0.6912 -0.6912 -0.2108
+Normal 95 -0.2108 0.6912 -0.6912
+Normal 96 -0.6912 0.6912 -0.2108
+Normal 97 -0.2108 -0.6912 0.6912
+Normal 98 -0.6912 -0.2108 0.6912
+Normal 99 0.6912 0.6912 -0.2108
+Normal 100 0.6912 -0.2108 0.6912
+Normal 101 -0.2108 0.6912 0.6912
+Normal 102 -0.2108 -0.6912 -0.6912
+Normal 103 -0.6912 -0.2108 -0.6912
+Normal 104 -0.6912 -0.6912 -0.2108
+Normal 105 0.6912 -0.2108 -0.6912
+Normal 106 0.6912 -0.6912 -0.2108
+Normal 107 -0.2108 0.6912 -0.6912
+Normal 108 -0.6912 0.6912 -0.2108
+Normal 109 -0.2108 -0.6912 0.6912
+Normal 110 -0.6912 -0.2108 0.6912
+Normal 111 0.6912 0.6912 -0.2108
+Normal 112 0.6912 -0.2108 0.6912
+Normal 113 -0.2108 0.6912 0.6912
+Normal 114 -0.2108 -0.6912 -0.6912
+Normal 115 -0.6912 -0.2108 -0.6912
+Normal 116 -0.6912 -0.6912 -0.2108
+Normal 117 0.6912 -0.2108 -0.6912
+Normal 118 0.6912 -0.6912 -0.2108
+Normal 119 -0.2108 0.6912 -0.6912
+Normal 120 -0.6912 0.6912 -0.2108
+Normal 121 -0.2108 -0.6912 0.6912
+Normal 122 -0.6912 -0.2108 0.6912
+Normal 123 0.6912 0.6912 -0.2108
+Normal 124 0.6912 -0.2108 0.6912
+Normal 125 -0.2108 0.6912 0.6912
+Normal 126 -0.2108 -0.6912 -0.6912
+Normal 127 -0.6912 -0.2108 -0.6912
+Normal 128 -0.6912 -0.6912 -0.2108
+Normal 129 0.6912 -0.2108 -0.6912
+Normal 130 0.6912 -0.6912 -0.2108
+Normal 131 -0.2108 0.6912 -0.6912
+Normal 132 -0.6912 0.6912 -0.2108
+Normal 133 -0.2108 -0.6912 0.6912
+Normal 134 -0.6912 -0.2108 0.6912
+Normal 135 0.6912 0.6912 -0.2108
+Normal 136 0.6912 -0.2108 0.6912
+Normal 137 -0.2108 0.6912 0.6912
+Normal 138 -0.2108 -0.6912 -0.6912
+Normal 139 -0.6912 -0.2108 -0.6912
+Normal 140 -0.6912 -0.6912 -0.2108
+Normal 141 0.6912 -0.2108 -0.6912
+Normal 142 0.6912 -0.6912 -0.2108
+Normal 143 -0.2108 0.6912 -0.6912
+Normal 144 -0.6912 0.6912 -0.2108
+Normal 145 -0.2108 -0.6912 0.6912
+Normal 146 -0.6912 -0.2108 0.6912
+Normal 147 0.6912 0.6912 -0.2108
+Normal 148 0.6912 -0.2108 0.6912
+Normal 149 -0.2108 0.6912 0.6912
+Normal 150 -0.2108 -0.6912 -0.6912
+Normal 151 -0.6912 -0.2108 -0.6912
+Normal 152 -0.6912 -0.6912 -0.2108
+Normal 153 0.6912 -0.2108 -0.6912
+Normal 154 0.6912 -0.6912 -0.2108
+Normal 155 -0.2108 0.6912 -0.6912
+Normal 156 -0.6912 0.6912 -0.2108
+Normal 157 -0.2108 -0.6912 0.6912
+Normal 158 -0.6912 -0.2108 0.6912
+Normal 159 0.6912 0.6912 -0.2108
+Normal 160 0.6912 -0.2108 0.6912
+Normal 161 -0.2108 0.6912 0.6912
+FirstDirectedEdge 0 216
+FirstDirectedEdge 1 220
+FirstDirectedEdge 2 224
+FirstDirectedEdge 3 233
+FirstDirectedEdge 4 234
+FirstDirectedEdge 5 251
+FirstDirectedEdge 6 288
+FirstDirectedEdge 7 292
+FirstDirectedEdge 8 296
+FirstDirectedEdge 9 305
+FirstDirectedEdge 10 306
+FirstDirectedEdge 11 323
+FirstDirectedEdge 12 360
+FirstDirectedEdge 13 364
+FirstDirectedEdge 14 368
+FirstDirectedEdge 15 377
+FirstDirectedEdge 16 378
+FirstDirectedEdge 17 395
+FirstDirectedEdge 18 432
+FirstDirectedEdge 19 436
+FirstDirectedEdge 20 440
+FirstDirectedEdge 21 449
+FirstDirectedEdge 22 450
+FirstDirectedEdge 23 467
+FirstDirectedEdge 24 504
+FirstDirectedEdge 25 508
+FirstDirectedEdge 26 512
+FirstDirectedEdge 27 521
+FirstDirectedEdge 28 522
+FirstDirectedEdge 29 539
+FirstDirectedEdge 30 576
+FirstDirectedEdge 31 580
+FirstDirectedEdge 32 584
+FirstDirectedEdge 33 593
+FirstDirectedEdge 34 594
+FirstDirectedEdge 35 611
+FirstDirectedEdge 36 648
+FirstDirectedEdge 37 652
+FirstDirectedEdge 38 656
+FirstDirectedEdge 39 665
+FirstDirectedEdge 40 666
+FirstDirectedEdge 41 683
+FirstDirectedEdge 42 720
+FirstDirectedEdge 43 724
+FirstDirectedEdge 44 728
+FirstDirectedEdge 45 737
+FirstDirectedEdge 46 738
+FirstDirectedEdge 47 755
+FirstDirectedEdge 48 792
+FirstDirectedEdge 49 796
+FirstDirectedEdge 50 800
+FirstDirectedEdge 51 809
+FirstDirectedEdge 52 810
+FirstDirectedEdge 53 827
+FirstDirectedEdge 54 1
+FirstDirectedEdge 55 2
+FirstDirectedEdge 56 0
+FirstDirectedEdge 57 4
+FirstDirectedEdge 58 3
+FirstDirectedEdge 59 7
+FirstDirectedEdge 60 8
+FirstDirectedEdge 61 10
+FirstDirectedEdge 62 9
+FirstDirectedEdge 63 12
+FirstDirectedEdge 64 15
+FirstDirectedEdge 65 19
+FirstDirectedEdge 66 25
+FirstDirectedEdge 67 26
+FirstDirectedEdge 68 24
+FirstDirectedEdge 69 28
+FirstDirectedEdge 70 27
+FirstDirectedEdge 71 31
+FirstDirectedEdge 72 32
+FirstDirectedEdge 73 34
+FirstDirectedEdge 74 33
+FirstDirectedEdge 75 36
+FirstDirectedEdge 76 39
+FirstDirectedEdge 77 43
+FirstDirectedEdge 78 49
+FirstDirectedEdge 79 50
+FirstDirectedEdge 80 48
+FirstDirectedEdge 81 52
+FirstDirectedEdge 82 51
+FirstDirectedEdge 83 55
+FirstDirectedEdge 84 56
+FirstDirectedEdge 85 58
+FirstDirectedEdge 86 57
+FirstDirectedEdge 87 60
+FirstDirectedEdge 88 63
+FirstDirectedEdge 89 67
+FirstDirectedEdge 90 73
+FirstDirectedEdge 91 74
+FirstDirectedEdge 92 72
+FirstDirectedEdge 93 76
+FirstDirectedEdge 94 75
+FirstDirectedEdge 95 79
+FirstDirectedEdge 96 80
+FirstDirectedEdge 97 82
+FirstDirectedEdge 98 81
+FirstDirectedEdge 99 84
+FirstDirectedEdge 100 87
+FirstDirectedEdge 101 91
+FirstDirectedEdge 102 97
+FirstDirectedEdge 103 98
+FirstDirectedEdge 104 96
+FirstDirectedEdge 105 100
+FirstDirectedEdge 106 99
+FirstDirectedEdge 107 103
+FirstDirectedEdge 108 104
+FirstDirectedEdge 109 106
+FirstDirectedEdge 110 105
+FirstDirectedEdge 111 108
+FirstDirectedEdge 112 111
+FirstDirectedEdge 113 115
+FirstDirectedEdge 114 121
+FirstDirectedEdge 115 122
+FirstDirectedEdge 116 120
+FirstDirectedEdge 117 124
+FirstDirectedEdge 118 123
+FirstDirectedEdge 119 127
+FirstDirectedEdge 120 128
+FirstDirectedEdge 121 130
+FirstDirectedEdge 122 129
+FirstDirectedEdge 123 132
+FirstDirectedEdge 124 135
+FirstDirectedEdge 125 139
+FirstDirectedEdge 126 145
+FirstDirectedEdge 127 146
+FirstDirectedEdge 128 144
+FirstDirectedEdge 129 148
+FirstDirectedEdge 130 147
+FirstDirectedEdge 131 151
+FirstDirectedEdge 132 152
+FirstDirectedEdge 133 154
+FirstDirectedEdge 134 153
+FirstDirectedEdge 135 156
+FirstDirectedEdge 136 159
+FirstDirectedEdge 137 163
+FirstDirectedEdge 138 169
+FirstDirectedEdge 139 170
+FirstDirectedEdge 140 168
+FirstDirectedEdge 141 172
+FirstDirectedEdge 142 171
+FirstDirectedEdge 143 175
+FirstDirectedEdge 144 176
+FirstDirectedEdge 145 178
+FirstDirectedEdge 146 177
+FirstDirectedEdge 147 180
+FirstDirectedEdge 148 183
+FirstDirectedEdge 149 187
+FirstDirectedEdge 150 193
+FirstDirectedEdge 151 194
+FirstDirectedEdge 152 192
+FirstDirectedEdge 153 196
+FirstDirectedEdge 154 195
+FirstDirectedEdge 155 199
+FirstDirectedEdge 156 200
+FirstDirectedEdge 157 202
+FirstDirectedEdge 158 201
+FirstDirectedEdge 159 204
+FirstDirectedEdge 160 207
+FirstDirectedEdge 161 211
+Face 1 54 55 56
+Face 2 57 54 58
+Face 3 59 60 55
+Face 4 61 56 62
+Face 5 59 57 63
+Face 6 58 61 64
+Face 7 65 62 60
+Face 8 63 64 65
+Face 9 66 67 68
+Face 10 69 66 70
+Face 11 71 72 67
+Face 12 73 68 74
+Face 13 71 69 75
+Face 14 70 73 76
+Face 15 77 74 72
+Face 16 75 76 77
+Face 17 78 79 80
+Face 18 81 78 82
+Face 19 83 84 79
+Face 20 85 80 86
+Face 21 83 81 87
+Face 22 82 85 88
+Face 23 89 86 84
+Face 24 87 88 89
+Face 25 90 91 92
+Face 26 93 90 94
+Face 27 95 96 91
+Face 28 97 92 98
+Face 29 95 93 99
+Face 30 94 97 100
+Face 31 101 98 96
+Face 32 99 100 101
+Face 33 102 103 104
+Face 34 105 102 106
+Face 35 107 108 103
+Face 36 109 104 110
+Face 37 107 105 111
+Face 38 106 109 112
+Face 39 113 110 108
+Face 40 111 112 113
+Face 41 114 115 116
+Face 42 117 114 118
+Face 43 119 120 115
+Face 44 121 116 122
+Face 45 119 117 123
+Face 46 118 121 124
+Face 47 125 122 120
+Face 48 123 124 125
+Face 49 126 127 128
+Face 50 129 126 130
+Face 51 131 132 127
+Face 52 133 128 134
+Face 53 131 129 135
+Face 54 130 133 136
+Face 55 137 134 132
+Face 56 135 136 137
+Face 57 138 139 140
+Face 58 141 138 142
+Face 59 143 144 139
+Face 60 145 140 146
+Face 61 143 141 147
+Face 62 142 145 148
+Face 63 149 146 144
+Face 64 147 148 149
+Face 65 150 151 152
+Face 66 153 150 154
+Face 67 155 156 151
+Face 68 157 152 158
+Face 69 155 153 159
+Face 70 154 157 160
+Face 71 161 158 156
+Face 72 159 160 161
+Face 73 55 54 0
+Face 74 1 56 55
+Face 75 56 2 54
+Face 76 54 57 0
+Face 77 2 58 54
+Face 78 58 3 57
+Face 79 60 59 4
+Face 80 1 55 60
+Face 81 55 0 59
+Face 82 56 61 2
+Face 83 1 62 56
+Face 84 62 5 61
+Face 85 57 59 0
+Face 86 3 63 57
+Face 87 63 4 59
+Face 88 61 58 2
+Face 89 5 64 61
+Face 90 64 3 58
+Face 91 62 65 5
+Face 92 1 60 62
+Face 93 60 4 65
+Face 94 64 63 3
+Face 95 5 65 64
+Face 96 65 4 63
+Face 97 67 66 6
+Face 98 7 68 67
+Face 99 68 8 66
+Face 100 66 69 6
+Face 101 8 70 66
+Face 102 70 9 69
+Face 103 72 71 10
+Face 104 7 67 72
+Face 105 67 6 71
+Face 106 68 73 8
+Face 107 7 74 68
+Face 108 74 11 73
+Face 109 69 71 6
+Face 110 9 75 69
+Face 111 75 10 71
+Face 112 73 70 8
+Face 113 11 76 73
+Face 114 76 9 70
+Face 115 74 77 11
+Face 116 7 72 74
+Face 117 72 10 77
+Face 118 76 75 9
+Face 119 11 77 76
+Face 120 77 10 75
+Face 121 79 78 12
+Face 122 13 80 79
+Face 123 80 14 78
+Face 124 78 81 12
+Face 125 14 82 78
+Face 126 82 15 81
+Face 127 84 83 16
+Face 128 13 79 84
+Face 129 79 12 83
+Face 130 80 85 14
+Face 131 13 86 80
+Face 132 86 17 85
+Face 133 81 83 12
+Face 134 15 87 81
+Face 135 87 16 83
+Face 136 85 82 14
+Face 137 17 88 85
+Face 138 88 15 82
+Face 139 86 89 17
+Face 140 13 84 86
+Face 141 84 16 89
+Face 142 88 87 15
+Face 143 17 89 88
+Face 144 89 16 87
+Face 145 91 90 18
+Face 146 19 92 91
+Face 147 92 20 90
+Face 148 90 93 18
+Face 149 20 94 90
+Face 150 94 21 93
+Face 151 96 95 22
+Face 152 19 91 96
+Face 153 91 18 95
+Face 154 92 97 20
+Face 155 19 98 92
+Face 156 98 23 97
+Face 157 93 95 18
+Face 158 21 99 93
+Face 159 99 22 95
+Face 160 97 94 20
+Face 161 23 100 97
+Face 162 100 21 94
+Face 163 98 101 23
+Face 164 19 96 98
+Face 165 96 22 101
+Face 166 100 99 21
+Face 167 23 101 100
+Face 168 101 22 99
+Face 169 103 102 24
+Face 170 25 104 103
+Face 171 104 26 102
+Face 172 102 105 24
+Face 173 26 106 102
+Face 174 106 27 105
+Face 175 108 107 28
+Face 176 25 103 108
+Face 177 103 24 107
+Face 178 104 109 26
+Face 179 25 110 104
+Face 180 110 29 109
+Face 181 105 107 24
+Face 182 27 111 105
+Face 183 111 28 107
+Face 184 109 106 26
+Face 185 29 112 109
+Face 186 112 27 106
+Face 187 110 113 29
+Face 188 25 108 110
+Face 189 108 28 113
+Face 190 112 111 27
+Face 191 29 113 112
+Face 192 113 28 111
+Face 193 115 114 30
+Face 194 31 116 115
+Face 195 116 32 114
+Face 196 114 117 30
+Face 197 32 118 114
+Face 198 118 33 117
+Face 199 120 119 34
+Face 200 31 115 120
+Face 201 115 30 119
+Face 202 116 121 32
+Face 203 31 122 116
+Face 204 122 35 121
+Face 205 117 119 30
+Face 206 33 123 117
+Face 207 123 34 119
+Face 208 121 118 32
+Face 209 35 124 121
+Face 210 124 33 118
+Face 211 122 125 35
+Face 212 31 120 122
+Face 213 120 34 125
+Face 214 124 123 33
+Face 215 35 125 124
+Face 216 125 34 123
+Face 217 127 126 36
+Face 218 37 128 127
+Face 219 128 38 126
+Face 220 126 129 36
+Face 221 38 130 126
+Face 222 130 39 129
+Face 223 132 131 40
+Face 224 37 127 132
+Face 225 127 36 131
+Face 226 128 133 38
+Face 227 37 134 128
+Face 228 134 41 133
+Face 229 129 131 36
+Face 230 39 135 129
+Face 231 135 40 131
+Face 232 133 130 38
+Face 233 41 136 133
+Face 234 136 39 130
+Face 235 134 137 41
+Face 236 37 132 134
+Face 237 132 40 137
+Face 238 136 135 39
+Face 239 41 137 136
+Face 240 137 40 135
+Face 241 139 138 42
+Face 242 43 140 139
+Face 243 140 44 138
+Face 244 138 141 42
+Face 245 44 142 138
+Face 246 142 45 141
+Face 247 144 143 46
+Face 248 43 139 144
+Face 249 139 42 143
+Face 250 140 145 44
+Face 251 43 146 140
+Face 252 146 47 145
+Face 253 141 143 42
+Face 254 45 147 141
+Face 255 147 46 143
+Face 256 145 142 44
+Face 257 47 148 145
+Face 258 148 45 142
+Face 259 146 149 47
+Face 260 43 144 146
+Face 261 144 46 149
+Face 262 148 147 45
+Face 263 47 149 148
+Face 264 149 46 147
+Face 265 151 150 48
+Face 266 49 152 151
+Face 267 152 50 150
+Face 268 150 153 48
+Face 269 50 154 150
+Face 270 154 51 153
+Face 271 156 155 52
+Face 272 49 151 156
+Face 273 151 48 155
+Face 274 152 157 50
+Face 275 49 158 152
+Face 276 158 53 157
+Face 277 153 155 48
+Face 278 51 159 153
+Face 279 159 52 155
+Face 280 157 154 50
+Face 281 53 160 157
+Face 282 160 51 154
+Face 283 158 161 53
+Face 284 49 156 158
+Face 285 156 52 161
+Face 286 160 159 51
+Face 287 53 161 160
+Face 288 161 52 159
+OtherHalf 0 222
+OtherHalf 1 217
+OtherHalf 2 221
+OtherHalf 3 231
+OtherHalf 4 226
+OtherHalf 5 230
+OtherHalf 6 240
+OtherHalf 7 235
+OtherHalf 8 239
+OtherHalf 9 249
+OtherHalf 10 244
+OtherHalf 11 248
+OtherHalf 12 258
+OtherHalf 13 253
+OtherHalf 14 257
+OtherHalf 15 267
+OtherHalf 16 262
+OtherHalf 17 266
+OtherHalf 18 276
+OtherHalf 19 271
+OtherHalf 20 275
+OtherHalf 21 285
+OtherHalf 22 280
+OtherHalf 23 284
+OtherHalf 24 294
+OtherHalf 25 289
+OtherHalf 26 293
+OtherHalf 27 303
+OtherHalf 28 298
+OtherHalf 29 302
+OtherHalf 30 312
+OtherHalf 31 307
+OtherHalf 32 311
+OtherHalf 33 321
+OtherHalf 34 316
+OtherHalf 35 320
+OtherHalf 36 330
+OtherHalf 37 325
+OtherHalf 38 329
+OtherHalf 39 339
+OtherHalf 40 334
+OtherHalf 41 338
+OtherHalf 42 348
+OtherHalf 43 343
+OtherHalf 44 347
+OtherHalf 45 357
+OtherHalf 46 352
+OtherHalf 47 356
+OtherHalf 48 366
+OtherHalf 49 361
+OtherHalf 50 365
+OtherHalf 51 375
+OtherHalf 52 370
+OtherHalf 53 374
+OtherHalf 54 384
+OtherHalf 55 379
+OtherHalf 56 383
+OtherHalf 57 393
+OtherHalf 58 388
+OtherHalf 59 392
+OtherHalf 60 402
+OtherHalf 61 397
+OtherHalf 62 401
+OtherHalf 63 411
+OtherHalf 64 406
+OtherHalf 65 410
+OtherHalf 66 420
+OtherHalf 67 415
+OtherHalf 68 419
+OtherHalf 69 429
+OtherHalf 70 424
+OtherHalf 71 428
+OtherHalf 72 438
+OtherHalf 73 433
+OtherHalf 74 437
+OtherHalf 75 447
+OtherHalf 76 442
+OtherHalf 77 446
+OtherHalf 78 456
+OtherHalf 79 451
+OtherHalf 80 455
+OtherHalf 81 465
+OtherHalf 82 460
+OtherHalf 83 464
+OtherHalf 84 474
+OtherHalf 85 469
+OtherHalf 86 473
+OtherHalf 87 483
+OtherHalf 88 478
+OtherHalf 89 482
+OtherHalf 90 492
+OtherHalf 91 487
+OtherHalf 92 491
+OtherHalf 93 501
+OtherHalf 94 496
+OtherHalf 95 500
+OtherHalf 96 510
+OtherHalf 97 505
+OtherHalf 98 509
+OtherHalf 99 519
+OtherHalf 100 514
+OtherHalf 101 518
+OtherHalf 102 528
+OtherHalf 103 523
+OtherHalf 104 527
+OtherHalf 105 537
+OtherHalf 106 532
+OtherHalf 107 536
+OtherHalf 108 546
+OtherHalf 109 541
+OtherHalf 110 545
+OtherHalf 111 555
+OtherHalf 112 550
+OtherHalf 113 554
+OtherHalf 114 564
+OtherHalf 115 559
+OtherHalf 116 563
+OtherHalf 117 573
+OtherHalf 118 568
+OtherHalf 119 572
+OtherHalf 120 582
+OtherHalf 121 577
+OtherHalf 122 581
+OtherHalf 123 591
+OtherHalf 124 586
+OtherHalf 125 590
+OtherHalf 126 600
+OtherHalf 127 595
+OtherHalf 128 599
+OtherHalf 129 609
+OtherHalf 130 604
+OtherHalf 131 608
+OtherHalf 132 618
+OtherHalf 133 613
+OtherHalf 134 617
+OtherHalf 135 627
+OtherHalf 136 622
+OtherHalf 137 626
+OtherHalf 138 636
+OtherHalf 139 631
+OtherHalf 140 635
+OtherHalf 141 645
+OtherHalf 142 640
+OtherHalf 143 644
+OtherHalf 144 654
+OtherHalf 145 649
+OtherHalf 146 653
+OtherHalf 147 663
+OtherHalf 148 658
+OtherHalf 149 662
+OtherHalf 150 672
+OtherHalf 151 667
+OtherHalf 152 671
+OtherHalf 153 681
+OtherHalf 154 676
+OtherHalf 155 680
+OtherHalf 156 690
+OtherHalf 157 685
+OtherHalf 158 689
+OtherHalf 159 699
+OtherHalf 160 694
+OtherHalf 161 698
+OtherHalf 162 708
+OtherHalf 163 703
+OtherHalf 164 707
+OtherHalf 165 717
+OtherHalf 166 712
+OtherHalf 167 716
+OtherHalf 168 726
+OtherHalf 169 721
+OtherHalf 170 725
+OtherHalf 171 735
+OtherHalf 172 730
+OtherHalf 173 734
+OtherHalf 174 744
+OtherHalf 175 739
+OtherHalf 176 743
+OtherHalf 177 753
+OtherHalf 178 748
+OtherHalf 179 752
+OtherHalf 180 762
+OtherHalf 181 757
+OtherHalf 182 761
+OtherHalf 183 771
+OtherHalf 184 766
+OtherHalf 185 770
+OtherHalf 186 780
+OtherHalf 187 775
+OtherHalf 188 779
+OtherHalf 189 789
+OtherHalf 190 784
+OtherHalf 191 788
+OtherHalf 192 798
+OtherHalf 193 793
+OtherHalf 194 797
+OtherHalf 195 807
+OtherHalf 196 802
+OtherHalf 197 806
+OtherHalf 198 816
+OtherHalf 199 811
+OtherHalf 200 815
+OtherHalf 201 825
+OtherHalf 202 820
+OtherHalf 203 824
+OtherHalf 204 834
+OtherHalf 205 829
+OtherHalf 206 833
+OtherHalf 207 843
+OtherHalf 208 838
+OtherHalf 209 842
+OtherHalf 210 852
+OtherHalf 211 847
+OtherHalf 212 851
+OtherHalf 213 861
+OtherHalf 214 856
+OtherHalf 215 860
+OtherHalf 216 241
+OtherHalf 217 1
+OtherHalf 218 225
+OtherHalf 219 238
+OtherHalf 220 246
+OtherHalf 221 2
+OtherHalf 222 0
+OtherHalf 223 243
+OtherHalf 224 228
+OtherHalf 225 218
+OtherHalf 226 4
+OtherHalf 227 252
+OtherHalf 228 224
+OtherHalf 229 263
+OtherHalf 230 5
+OtherHalf 231 3
+OtherHalf 232 269
+OtherHalf 233 255
+OtherHalf 234 277
+OtherHalf 235 7
+OtherHalf 236 260
+OtherHalf 237 274
+OtherHalf 238 219
+OtherHalf 239 8
+OtherHalf 240 6
+OtherHalf 241 216
+OtherHalf 242 254
+OtherHalf 243 223
+OtherHalf 244 10
+OtherHalf 245 261
+OtherHalf 246 220
+OtherHalf 247 273
+OtherHalf 248 11
+OtherHalf 249 9
+OtherHalf 250 270
+OtherHalf 251 264
+OtherHalf 252 227
+OtherHalf 253 13
+OtherHalf 254 242
+OtherHalf 255 233
+OtherHalf 256 281
+OtherHalf 257 14
+OtherHalf 258 12
+OtherHalf 259 287
+OtherHalf 260 236
+OtherHalf 261 245
+OtherHalf 262 16
+OtherHalf 263 229
+OtherHalf 264 251
+OtherHalf 265 282
+OtherHalf 266 17
+OtherHalf 267 15
+OtherHalf 268 279
+OtherHalf 269 232
+OtherHalf 270 250
+OtherHalf 271 19
+OtherHalf 272 283
+OtherHalf 273 247
+OtherHalf 274 237
+OtherHalf 275 20
+OtherHalf 276 18
+OtherHalf 277 234
+OtherHalf 278 286
+OtherHalf 279 268
+OtherHalf 280 22
+OtherHalf 281 256
+OtherHalf 282 265
+OtherHalf 283 272
+OtherHalf 284 23
+OtherHalf 285 21
+OtherHalf 286 278
+OtherHalf 287 259
+OtherHalf 288 313
+OtherHalf 289 25
+OtherHalf 290 297
+OtherHalf 291 310
+OtherHalf 292 318
+OtherHalf 293 26
+OtherHalf 294 24
+OtherHalf 295 315
+OtherHalf 296 300
+OtherHalf 297 290
+OtherHalf 298 28
+OtherHalf 299 324
+OtherHalf 300 296
+OtherHalf 301 335
+OtherHalf 302 29
+OtherHalf 303 27
+OtherHalf 304 341
+OtherHalf 305 327
+OtherHalf 306 349
+OtherHalf 307 31
+OtherHalf 308 332
+OtherHalf 309 346
+OtherHalf 310 291
+OtherHalf 311 32
+OtherHalf 312 30
+OtherHalf 313 288
+OtherHalf 314 326
+OtherHalf 315 295
+OtherHalf 316 34
+OtherHalf 317 333
+OtherHalf 318 292
+OtherHalf 319 345
+OtherHalf 320 35
+OtherHalf 321 33
+OtherHalf 322 342
+OtherHalf 323 336
+OtherHalf 324 299
+OtherHalf 325 37
+OtherHalf 326 314
+OtherHalf 327 305
+OtherHalf 328 353
+OtherHalf 329 38
+OtherHalf 330 36
+OtherHalf 331 359
+OtherHalf 332 308
+OtherHalf 333 317
+OtherHalf 334 40
+OtherHalf 335 301
+OtherHalf 336 323
+OtherHalf 337 354
+OtherHalf 338 41
+OtherHalf 339 39
+OtherHalf 340 351
+OtherHalf 341 304
+OtherHalf 342 322
+OtherHalf 343 43
+OtherHalf 344 355
+OtherHalf 345 319
+OtherHalf 346 309
+OtherHalf 347 44
+OtherHalf 348 42
+OtherHalf 349 306
+OtherHalf 350 358
+OtherHalf 351 340
+OtherHalf 352 46
+OtherHalf 353 328
+OtherHalf 354 337
+OtherHalf 355 344
+OtherHalf 356 47
+OtherHalf 357 45
+OtherHalf 358 350
+OtherHalf 359 331
+OtherHalf 360 385
+OtherHalf 361 49
+OtherHalf 362 369
+OtherHalf 363 382
+OtherHalf 364 390
+OtherHalf 365 50
+OtherHalf 366 48
+OtherHalf 367 387
+OtherHalf 368 372
+OtherHalf 369 362
+OtherHalf 370 52
+OtherHalf 371 396
+OtherHalf 372 368
+OtherHalf 373 407
+OtherHalf 374 53
+OtherHalf 375 51
+OtherHalf 376 413
+OtherHalf 377 399
+OtherHalf 378 421
+OtherHalf 379 55
+OtherHalf 380 404
+OtherHalf 381 418
+OtherHalf 382 363
+OtherHalf 383 56
+OtherHalf 384 54
+OtherHalf 385 360
+OtherHalf 386 398
+OtherHalf 387 367
+OtherHalf 388 58
+OtherHalf 389 405
+OtherHalf 390 364
+OtherHalf 391 417
+OtherHalf 392 59
+OtherHalf 393 57
+OtherHalf 394 414
+OtherHalf 395 408
+OtherHalf 396 371
+OtherHalf 397 61
+OtherHalf 398 386
+OtherHalf 399 377
+OtherHalf 400 425
+OtherHalf 401 62
+OtherHalf 402 60
+OtherHalf 403 431
+OtherHalf 404 380
+OtherHalf 405 389
+OtherHalf 406 64
+OtherHalf 407 373
+OtherHalf 408 395
+OtherHalf 409 426
+OtherHalf 410 65
+OtherHalf 411 63
+OtherHalf 412 423
+OtherHalf 413 376
+OtherHalf 414 394
+OtherHalf 415 67
+OtherHalf 416 427
+OtherHalf 417 391
+OtherHalf 418 381
+OtherHalf 419 68
+OtherHalf 420 66
+OtherHalf 421 378
+OtherHalf 422 430
+OtherHalf 423 412
+OtherHalf 424 70
+OtherHalf 425 400
+OtherHalf 426 409
+OtherHalf 427 416
+OtherHalf 428 71
+OtherHalf 429 69
+OtherHalf 430 422
+OtherHalf 431 403
+OtherHalf 432 457
+OtherHalf 433 73
+OtherHalf 434 441
+OtherHalf 435 454
+OtherHalf 436 462
+OtherHalf 437 74
+OtherHalf 438 72
+OtherHalf 439 459
+OtherHalf 440 444
+OtherHalf 441 434
+OtherHalf 442 76
+OtherHalf 443 468
+OtherHalf 444 440
+OtherHalf 445 479
+OtherHalf 446 77
+OtherHalf 447 75
+OtherHalf 448 485
+OtherHalf 449 471
+OtherHalf 450 493
+OtherHalf 451 79
+OtherHalf 452 476
+OtherHalf 453 490
+OtherHalf 454 435
+OtherHalf 455 80
+OtherHalf 456 78
+OtherHalf 457 432
+OtherHalf 458 470
+OtherHalf 459 439
+OtherHalf 460 82
+OtherHalf 461 477
+OtherHalf 462 436
+OtherHalf 463 489
+OtherHalf 464 83
+OtherHalf 465 81
+OtherHalf 466 486
+OtherHalf 467 480
+OtherHalf 468 443
+OtherHalf 469 85
+OtherHalf 470 458
+OtherHalf 471 449
+OtherHalf 472 497
+OtherHalf 473 86
+OtherHalf 474 84
+OtherHalf 475 503
+OtherHalf 476 452
+OtherHalf 477 461
+OtherHalf 478 88
+OtherHalf 479 445
+OtherHalf 480 467
+OtherHalf 481 498
+OtherHalf 482 89
+OtherHalf 483 87
+OtherHalf 484 495
+OtherHalf 485 448
+OtherHalf 486 466
+OtherHalf 487 91
+OtherHalf 488 499
+OtherHalf 489 463
+OtherHalf 490 453
+OtherHalf 491 92
+OtherHalf 492 90
+OtherHalf 493 450
+OtherHalf 494 502
+OtherHalf 495 484
+OtherHalf 496 94
+OtherHalf 497 472
+OtherHalf 498 481
+OtherHalf 499 488
+OtherHalf 500 95
+OtherHalf 501 93
+OtherHalf 502 494
+OtherHalf 503 475
+OtherHalf 504 529
+OtherHalf 505 97
+OtherHalf 506 513
+OtherHalf 507 526
+OtherHalf 508 534
+OtherHalf 509 98
+OtherHalf 510 96
+OtherHalf 511 531
+OtherHalf 512 516
+OtherHalf 513 506
+OtherHalf 514 100
+OtherHalf 515 540
+OtherHalf 516 512
+OtherHalf 517 551
+OtherHalf 518 101
+OtherHalf 519 99
+OtherHalf 520 557
+OtherHalf 521 543
+OtherHalf 522 565
+OtherHalf 523 103
+OtherHalf 524 548
+OtherHalf 525 562
+OtherHalf 526 507
+OtherHalf 527 104
+OtherHalf 528 102
+OtherHalf 529 504
+OtherHalf 530 542
+OtherHalf 531 511
+OtherHalf 532 106
+OtherHalf 533 549
+OtherHalf 534 508
+OtherHalf 535 561
+OtherHalf 536 107
+OtherHalf 537 105
+OtherHalf 538 558
+OtherHalf 539 552
+OtherHalf 540 515
+OtherHalf 541 109
+OtherHalf 542 530
+OtherHalf 543 521
+OtherHalf 544 569
+OtherHalf 545 110
+OtherHalf 546 108
+OtherHalf 547 575
+OtherHalf 548 524
+OtherHalf 549 533
+OtherHalf 550 112
+OtherHalf 551 517
+OtherHalf 552 539
+OtherHalf 553 570
+OtherHalf 554 113
+OtherHalf 555 111
+OtherHalf 556 567
+OtherHalf 557 520
+OtherHalf 558 538
+OtherHalf 559 115
+OtherHalf 560 571
+OtherHalf 561 535
+OtherHalf 562 525
+OtherHalf 563 116
+OtherHalf 564 114
+OtherHalf 565 522
+OtherHalf 566 574
+OtherHalf 567 556
+OtherHalf 568 118
+OtherHalf 569 544
+OtherHalf 570 553
+OtherHalf 571 560
+OtherHalf 572 119
+OtherHalf 573 117
+OtherHalf 574 566
+OtherHalf 575 547
+OtherHalf 576 601
+OtherHalf 577 121
+OtherHalf 578 585
+OtherHalf 579 598
+OtherHalf 580 606
+OtherHalf 581 122
+OtherHalf 582 120
+OtherHalf 583 603
+OtherHalf 584 588
+OtherHalf 585 578
+OtherHalf 586 124
+OtherHalf 587 612
+OtherHalf 588 584
+OtherHalf 589 623
+OtherHalf 590 125
+OtherHalf 591 123
+OtherHalf 592 629
+OtherHalf 593 615
+OtherHalf 594 637
+OtherHalf 595 127
+OtherHalf 596 620
+OtherHalf 597 634
+OtherHalf 598 579
+OtherHalf 599 128
+OtherHalf 600 126
+OtherHalf 601 576
+OtherHalf 602 614
+OtherHalf 603 583
+OtherHalf 604 130
+OtherHalf 605 621
+OtherHalf 606 580
+OtherHalf 607 633
+OtherHalf 608 131
+OtherHalf 609 129
+OtherHalf 610 630
+OtherHalf 611 624
+OtherHalf 612 587
+OtherHalf 613 133
+OtherHalf 614 602
+OtherHalf 615 593
+OtherHalf 616 641
+OtherHalf 617 134
+OtherHalf 618 132
+OtherHalf 619 647
+OtherHalf 620 596
+OtherHalf 621 605
+OtherHalf 622 136
+OtherHalf 623 589
+OtherHalf 624 611
+OtherHalf 625 642
+OtherHalf 626 137
+OtherHalf 627 135
+OtherHalf 628 639
+OtherHalf 629 592
+OtherHalf 630 610
+OtherHalf 631 139
+OtherHalf 632 643
+OtherHalf 633 607
+OtherHalf 634 597
+OtherHalf 635 140
+OtherHalf 636 138
+OtherHalf 637 594
+OtherHalf 638 646
+OtherHalf 639 628
+OtherHalf 640 142
+OtherHalf 641 616
+OtherHalf 642 625
+OtherHalf 643 632
+OtherHalf 644 143
+OtherHalf 645 141
+OtherHalf 646 638
+OtherHalf 647 619
+OtherHalf 648 673
+OtherHalf 649 145
+OtherHalf 650 657
+OtherHalf 651 670
+OtherHalf 652 678
+OtherHalf 653 146
+OtherHalf 654 144
+OtherHalf 655 675
+OtherHalf 656 660
+OtherHalf 657 650
+OtherHalf 658 148
+OtherHalf 659 684
+OtherHalf 660 656
+OtherHalf 661 695
+OtherHalf 662 149
+OtherHalf 663 147
+OtherHalf 664 701
+OtherHalf 665 687
+OtherHalf 666 709
+OtherHalf 667 151
+OtherHalf 668 692
+OtherHalf 669 706
+OtherHalf 670 651
+OtherHalf 671 152
+OtherHalf 672 150
+OtherHalf 673 648
+OtherHalf 674 686
+OtherHalf 675 655
+OtherHalf 676 154
+OtherHalf 677 693
+OtherHalf 678 652
+OtherHalf 679 705
+OtherHalf 680 155
+OtherHalf 681 153
+OtherHalf 682 702
+OtherHalf 683 696
+OtherHalf 684 659
+OtherHalf 685 157
+OtherHalf 686 674
+OtherHalf 687 665
+OtherHalf 688 713
+OtherHalf 689 158
+OtherHalf 690 156
+OtherHalf 691 719
+OtherHalf 692 668
+OtherHalf 693 677
+OtherHalf 694 160
+OtherHalf 695 661
+OtherHalf 696 683
+OtherHalf 697 714
+OtherHalf 698 161
+OtherHalf 699 159
+OtherHalf 700 711
+OtherHalf 701 664
+OtherHalf 702 682
+OtherHalf 703 163
+OtherHalf 704 715
+OtherHalf 705 679
+OtherHalf 706 669
+OtherHalf 707 164
+OtherHalf 708 162
+OtherHalf 709 666
+OtherHalf 710 718
+OtherHalf 711 700
+OtherHalf 712 166
+OtherHalf 713 688
+OtherHalf 714 697
+OtherHalf 715 704
+OtherHalf 716 167
+OtherHalf 717 165
+OtherHalf 718 710
+OtherHalf 719 691
+OtherHalf 720 745
+OtherHalf 721 169
+OtherHalf 722 729
+OtherHalf 723 742
+OtherHalf 724 750
+OtherHalf 725 170
+OtherHalf 726 168
+OtherHalf 727 747
+OtherHalf 728 732
+OtherHalf 729 722
+OtherHalf 730 172
+OtherHalf 731 756
+OtherHalf 732 728
+OtherHalf 733 767
+OtherHalf 734 173
+OtherHalf 735 171
+OtherHalf 736 773
+OtherHalf 737 759
+OtherHalf 738 781
+OtherHalf 739 175
+OtherHalf 740 764
+OtherHalf 741 778
+OtherHalf 742 723
+OtherHalf 743 176
+OtherHalf 744 174
+OtherHalf 745 720
+OtherHalf 746 758
+OtherHalf 747 727
+OtherHalf 748 178
+OtherHalf 749 765
+OtherHalf 750 724
+OtherHalf 751 777
+OtherHalf 752 179
+OtherHalf 753 177
+OtherHalf 754 774
+OtherHalf 755 768
+OtherHalf 756 731
+OtherHalf 757 181
+OtherHalf 758 746
+OtherHalf 759 737
+OtherHalf 760 785
+OtherHalf 761 182
+OtherHalf 762 180
+OtherHalf 763 791
+OtherHalf 764 740
+OtherHalf 765 749
+OtherHalf 766 184
+OtherHalf 767 733
+OtherHalf 768 755
+OtherHalf 769 786
+OtherHalf 770 185
+OtherHalf 771 183
+OtherHalf 772 783
+OtherHalf 773 736
+OtherHalf 774 754
+OtherHalf 775 187
+OtherHalf 776 787
+OtherHalf 777 751
+OtherHalf 778 741
+OtherHalf 779 188
+OtherHalf 780 186
+OtherHalf 781 738
+OtherHalf 782 790
+OtherHalf 783 772
+OtherHalf 784 190
+OtherHalf 785 760
+OtherHalf 786 769
+OtherHalf 787 776
+OtherHalf 788 191
+OtherHalf 789 189
+OtherHalf 790 782
+OtherHalf 791 763
+OtherHalf 792 817
+OtherHalf 793 193
+OtherHalf 794 801
+OtherHalf 795 814
+OtherHalf 796 822
+OtherHalf 797 194
+OtherHalf 798 192
+OtherHalf 799 819
+OtherHalf 800 804
+OtherHalf 801 794
+OtherHalf 802 196
+OtherHalf 803 828
+OtherHalf 804 800
+OtherHalf 805 839
+OtherHalf 806 197
+OtherHalf 807 195
+OtherHalf 808 845
+OtherHalf 809 831
+OtherHalf 810 853
+OtherHalf 811 199
+OtherHalf 812 836
+OtherHalf 813 850
+OtherHalf 814 795
+OtherHalf 815 200
+OtherHalf 816 198
+OtherHalf 817 792
+OtherHalf 818 830
+OtherHalf 819 799
+OtherHalf 820 202
+OtherHalf 821 837
+OtherHalf 822 796
+OtherHalf 823 849
+OtherHalf 824 203
+OtherHalf 825 201
+OtherHalf 826 846
+OtherHalf 827 840
+OtherHalf 828 803
+OtherHalf 829 205
+OtherHalf 830 818
+OtherHalf 831 809
+OtherHalf 832 857
+OtherHalf 833 206
+OtherHalf 834 204
+OtherHalf 835 863
+OtherHalf 836 812
+OtherHalf 837 821
+OtherHalf 838 208
+OtherHalf 839 805
+OtherHalf 840 827
+OtherHalf 841 858
+OtherHalf 842 209
+OtherHalf 843 207
+OtherHalf 844 855
+OtherHalf 845 808
+OtherHalf 846 826
+OtherHalf 847 211
+OtherHalf 848 859
+OtherHalf 849 823
+OtherHalf 850 813
+OtherHalf 851 212
+OtherHalf 852 210
+OtherHalf 853 810
+OtherHalf 854 862
+OtherHalf 855 844
+OtherHalf 856 214
+OtherHalf 857 832
+OtherHalf 858 841
+OtherHalf 859 848
+OtherHalf 860 215
+OtherHalf 861 213
+OtherHalf 862 854
+OtherHalf 863 835

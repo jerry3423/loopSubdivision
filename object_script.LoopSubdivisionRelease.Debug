@@ -1,0 +1,17 @@
+debug/ArcBall.o
+debug/ArcBallWidget.o
+debug/Cartesian3.o
+debug/DirectedEdgeSurface.o
+debug/Homogeneous4.o
+debug/main.o
+debug/Matrix4.o
+debug/Quaternion.o
+debug/RenderController.o
+debug/RenderWidget.o
+debug/RenderWindow.o
+debug/RGBAImage.o
+debug/RGBAValue.o
+debug/SphereVertices.o
+debug/moc_ArcBallWidget.o
+debug/moc_RenderController.o
+debug/moc_RenderWidget.o
